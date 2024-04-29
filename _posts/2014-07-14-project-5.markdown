@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 5
+img: safe.png
+alt: image-alt
+project-date: Jun 2023 
+category: Remote Sensing & Data Science
+description: Embark on a journey into the cutting-edge realm of self-driving cars and delve deep into the pivotal role of data fusion and computer vision technology. Experience firsthand how lidar, radar, and image sensors seamlessly integrate to create a comprehensive view of the surrounding environment, enabling autonomous vehicles to navigate roads with unparalleled precision and safety. Explore the intricate dance of algorithms and sensors as they fuse data streams in real-time, ensuring a seamless and efficient driving experience. Join us as we uncover the remarkable synergy of technology and innovation driving the future of transportation.
+---

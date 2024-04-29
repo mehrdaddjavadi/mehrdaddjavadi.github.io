@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: submarine.png
+alt: image-alt
+project-date: April 2023
+category: Remote Sensing
+description: Gain valuable insights from a seasoned remote sensing and GIS engineer on the role of spatial technology in industry. From industry trends to emerging technologies, we'll delve into the ever-evolving fields of remote sensing and GIS, exploring their symbiotic relationship and diverse applications. Join the conversation and stay ahead of the curve with expert analysis and perspectives on leveraging spatial data for impactful decision-making.
+---

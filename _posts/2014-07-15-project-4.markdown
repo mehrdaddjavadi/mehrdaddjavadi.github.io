@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 4
+img: game.png
+alt: image-alt
+project-date: April 2024
+category: Remote Sensing
+description: Discover how radar data and interferometry techniques are revolutionizing infrastructure monitoring. From dams to bridges, we'll explore how remote sensing technology enables us to detect changes, assess structural integrity, and mitigate risks. Let's safeguard our infrastructure for a resilient future.
+---

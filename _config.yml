@@ -1,0 +1,71 @@
+# Site settings
+title: Javadi's Data hub
+email: mehrdaddjavadi@gmail.com
+# url: https://github.com/jeromelachaud/freelancer-theme
+description: "Welcome to Mehrdad Javadi's Data Science Command Center! Explore data science, artificial intelligence, business intelligence, SQL analytics, big data solutions, remote sensing , GIS and more. Drive innovation and maximize business impact with cutting-edge analytics and transformative insights. Let's make data-driven decisions the cornerstone of your success journey"
+keywords: "data scientist, remote sensing, AI developer, deep learning, surveying, point cloud, flutter, graph, freelance, business intelligence"
+skills: "Data Scientist - Remote Sensing Engineer"
+meta_author: Javadi Mehrdad
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Copyright © Mehrdad Javadi
+  location: Earth, exploring data realms
+  social: Connect with Mehrdad Javadi
+  credits: 
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://www.instagram.com/realmehrdadjavadi/
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: 
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/mehrdaddjavadi
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 1, Yaman Square
+  - line: Velenjak, Tehran, Iran
+
+# Credits content
+credits: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""

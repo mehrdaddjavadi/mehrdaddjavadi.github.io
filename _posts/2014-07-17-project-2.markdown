@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 2
+img: cake.png
+alt: image-alt
+project-date: March 2024
+category: Data Science
+description: Learn how data science can revolutionize your sales strategy. By analyzing your sales data, identifying patterns, and optimizing processes, we'll uncover hidden opportunities to drive revenue growth. Let's leverage the power of data to propel your business forward.
+---
